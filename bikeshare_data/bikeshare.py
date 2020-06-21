@@ -183,7 +183,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+# will grab the first 5 rows of raw data and display them. Will keep looping if answered yes
 def display_data(df):
     raw_data = str(input("Would you like to see raw data?  "))
     raw_data = raw_data.lower()
