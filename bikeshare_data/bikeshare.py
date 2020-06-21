@@ -34,6 +34,7 @@ def get_filters():
         else:
             break
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
+    # This while loop will not allow anyother word to be inputed except the word in the string
     while True:
         day = str(input("Select Day: monday, tuesday, wednesday, thursday, friday, or all  "))
         day = day.lower()
