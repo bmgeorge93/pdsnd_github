@@ -8,7 +8,13 @@ version_control_project
 This is a test of my knowledge of version control
 
 ### Files used
-Include the files used
+README.md
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington_csv
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity lessons
+Stack Overflow
