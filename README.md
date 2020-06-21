@@ -2,10 +2,10 @@
 6-21-2020
 
 ### Project Title
-Replace the Project Title
+version_control_project
 
 ### Description
-Describe what your project is about and what it does
+This is a test of my knowledge of version control
 
 ### Files used
 Include the files used
